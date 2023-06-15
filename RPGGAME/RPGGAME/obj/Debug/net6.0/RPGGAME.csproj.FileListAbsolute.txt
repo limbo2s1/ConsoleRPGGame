@@ -1,0 +1,15 @@
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.csproj.AssemblyReference.cache
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.AssemblyInfoInputs.cache
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.AssemblyInfo.cs
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.csproj.CoreCompileInputs.cache
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\bin\Debug\net6.0\RPGGAME.exe
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\bin\Debug\net6.0\RPGGAME.deps.json
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\bin\Debug\net6.0\RPGGAME.runtimeconfig.json
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\bin\Debug\net6.0\RPGGAME.dll
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\bin\Debug\net6.0\RPGGAME.pdb
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.dll
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\refint\RPGGAME.dll
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.pdb
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\RPGGAME.genruntimeconfig.cache
+C:\Users\Skalleta\Desktop\GAMEE\RPGGAME\RPGGAME\obj\Debug\net6.0\ref\RPGGAME.dll
